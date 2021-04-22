@@ -1,6 +1,6 @@
 ## :godmode: Hello there
 
-My name is Kevin GRILLET and I'm a software developer. I'm from France, living in Dijon and currently working at [![YMAG](https://img.shields.io/badge/YMAG-blue)](https://www.ymag.fr/). You can finid me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--grillet-blue?logo=LinkedIn&style=social)](https://www.linkedin.com/in/kevin-grillet/).
+My name is Kevin GRILLET and I'm a software developer. I'm from France, living in Dijon and currently working at [![YMAG](https://img.shields.io/badge/YMAG-blue?style=flat-square)](https://www.ymag.fr/). You can finid me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--grillet-blue?logo=LinkedIn&style=social)](https://www.linkedin.com/in/kevin-grillet/).
 
 ## :wrench: Technologies & Tools
 
