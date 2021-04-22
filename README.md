@@ -18,7 +18,7 @@ My name is Kevin GRILLET and I'm a software developer. I'm from France, living i
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevingrillet&theme=nord&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevingrillet&theme=nord&langs_count=6&layout=compact" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevingrillet&count_private=true&show_icons=true&theme=nord" alt="Kevin's GitHub Stats" />
