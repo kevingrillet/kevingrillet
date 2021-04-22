@@ -24,7 +24,7 @@ My name is Kevin GRILLET and I'm a software developer. I'm from France, living i
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevingrillet&count_private=true&show_icons=true&theme=nord" alt="Kevin's GitHub Stats" />
   </a>
   
-  <br /><br /><hr />
+  <br /><hr />
   <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
     <img src="https://komarev.com/ghpvc/?username=kevingrillet&color=lightgrey&style=flat" />
   </a>
