@@ -6,11 +6,12 @@ My name is Kevin GRILLET and I'm a software developer. I'm from France, living i
 
 <!-- https://shields.io/ -->
 <!-- https://simpleicons.org/ -->
-![](https://img.shields.io/badge/OS-Windows%2010-blue?logo=Windows)
-![](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=Visual%20Studio%20Code)
-![](https://img.shields.io/badge/Code-Delphi-red?logo=Delphi)
-![](https://img.shields.io/badge/Code-JavaScript-yellow?logo=JavaScript)
-![](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash)
+[![Windows 10](https://img.shields.io/badge/Windows-10-blue?logo=windows)](https://www.microsoft.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Delphi](https://img.shields.io/badge/Code-Delphi-red?logo=Delphi)](https://www.embarcadero.com/products/delphi)
+[![AutoIt](https://img.shields.io/badge/Code-AutoIt-blue)](https://www.autoitscript.com/site/)
+[![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash)](https://www.gnu.org/software/bash/)
 
 <!-- ## Blog posts -->
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
