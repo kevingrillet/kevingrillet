@@ -12,6 +12,9 @@ My name is Kevin GRILLET and I'm a software developer. I'm from France, living i
 ![](https://img.shields.io/badge/Code-JavaScript-yellow?logo=JavaScript)
 ![](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash)
 
+<!-- ## Blog posts -->
+<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
+
 ## :chart_with_upwards_trend: GitHub Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
