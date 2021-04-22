@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## :godmode: Hello there
 
 My name is Kevin GRILLET and I'm a software developer. I'm from France, living in Dijon and currently working at [![YMAG](https://img.shields.io/badge/YMAG-blue)](https://www.ymag.fr/). You can finid me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--grillet-blue?logo=LinkedIn&style=social)](https://www.linkedin.com/in/kevin-grillet/).
@@ -26,13 +24,14 @@ My name is Kevin GRILLET and I'm a software developer. I'm from France, living i
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevingrillet&count_private=true&show_icons=true&theme=nord" alt="Kevin's GitHub Stats" />
   </a>
   
-  <br/>
+  <br /><br /><hr />
   <a href="https://github.com/antonkomarev/github-profile-views-counter" alt="Profile views">
     <img src="https://komarev.com/ghpvc/?username=kevingrillet&color=lightgrey&style=flat" />
   </a>
 </div>
 
 <!--
+### Hi there 👋
 **kevingrillet/kevingrillet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
