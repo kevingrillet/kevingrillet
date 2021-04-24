@@ -27,7 +27,7 @@ You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--gri
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevingrillet&theme=nord&langs_count=8&layout=compact" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevingrillet&count_private=true&show_icons=true&theme=nord" alt="Kevin's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevingrillet&count_private=true&show_icons=true&theme=nord&custom_title=GitHub%20Stats" alt="Kevin's GitHub Stats" />
   </a>
   
   <br /><hr />
