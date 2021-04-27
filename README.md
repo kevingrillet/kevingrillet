@@ -43,7 +43,7 @@ You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--gri
 
 <div align="center">
   <a href="https://github.com/kyechan99/capsule-render">
-    <img align="center" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200" />
+    <img align="center" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100" />
   </a>
 </div>
 
