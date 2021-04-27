@@ -13,12 +13,34 @@ You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--gri
 
 <!-- https://shields.io/ -->
 <!-- https://simpleicons.org/ -->
+<!-- 
 [![Windows 10](https://img.shields.io/badge/Windows-10-blue?logo=windows)](https://www.microsoft.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Delphi](https://img.shields.io/badge/Code-Delphi-red?logo=Delphi)](https://www.embarcadero.com/products/delphi)
 [![AutoIt](https://img.shields.io/badge/Code-AutoIt-blue)](https://www.autoitscript.com/site/)
 [![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash)](https://www.gnu.org/software/bash/)
+-->
+<div align="center">
+  <a href="https://www.microsoft.com/">
+    <img align="center" src="https://img.shields.io/badge/Windows-10-blue?logo=windows" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img align="center" src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visual-studio-code" />
+  </a>
+  <a href="https://www.embarcadero.com/products/delphi">
+    <img align="center" src="https://img.shields.io/badge/Code-Delphi-red?logo=Delphi" />
+  </a>
+  <a href="https://www.autoitscript.com/site/">
+    <img align="center" src="https://img.shields.io/badge/Code-AutoIt-blue" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img align="center" src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=JavaScript" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img align="center" src="https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash" />
+  </a>
+</div>
 
 <!-- ## Blog posts -->
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
