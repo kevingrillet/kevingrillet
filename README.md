@@ -1,5 +1,7 @@
 <!-- ## :godmode: Hello there -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20there%20%F0%9F%91%8B&fontSize=75" />
+<div align="center">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20there%20%F0%9F%91%8B&fontSize=75" />
+</div>
 
 My name is Kevin GRILLET and I'm a software developer. I'm from France, living in Dijon and currently working at [![YMAG](https://img.shields.io/badge/YMAG-blue?style=flat)](https://www.ymag.fr/).
 
@@ -37,7 +39,9 @@ You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--gri
   </a>
 </div>
 
-<img align="center" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200" />
+<div align="center">
+  <img align="center" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=200" />
+</div>
 
 <!--
 ### Hi there 👋
