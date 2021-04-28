@@ -5,7 +5,7 @@
   </a>
 </div>
 
-My name is Kevin GRILLET and I'm a software developer. I'm from France, living in Dijon and currently working at [![YMAG](https://img.shields.io/badge/YMAG-blue?style=flat)](https://www.ymag.fr/).
+My name is Kevin GRILLET and I'm a software developer. I'm from France, living in Dijon and currently working at [![YMAG](https://img.shields.io/badge/YMAG-blue?style=flat-square)](https://www.ymag.fr/).
 
 You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--grillet-blue?logo=LinkedIn&style=social)](https://www.linkedin.com/in/kevin-grillet/).
 
@@ -13,32 +13,25 @@ You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--gri
 
 <!-- https://shields.io/ -->
 <!-- https://simpleicons.org/ -->
-<!-- 
-[![Windows 10](https://img.shields.io/badge/Windows-10-blue?logo=windows)](https://www.microsoft.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Delphi](https://img.shields.io/badge/Code-Delphi-red?logo=Delphi)](https://www.embarcadero.com/products/delphi)
-[![AutoIt](https://img.shields.io/badge/Code-AutoIt-blue)](https://www.autoitscript.com/site/)
-[![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash)](https://www.gnu.org/software/bash/)
--->
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <div align="center">
   <a href="https://www.microsoft.com/">
-    <img align="center" src="https://img.shields.io/badge/Windows-10-blue?logo=windows" />
+    <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
   <a href="https://code.visualstudio.com/">
-    <img align="center" src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visual-studio-code" />
+    <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   </a>
   <a href="https://www.embarcadero.com/products/delphi">
-    <img align="center" src="https://img.shields.io/badge/Code-Delphi-red?logo=Delphi" />
+    <img align="center" src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
   </a>
   <a href="https://www.autoitscript.com/site/">
-    <img align="center" src="https://img.shields.io/badge/Code-AutoIt-blue" />
+    <img align="center" src="https://img.shields.io/badge/AutoIt-blue?style=for-the-badge" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img align="center" src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=JavaScript" />
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
   <a href="https://www.gnu.org/software/bash/">
-    <img align="center" src="https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash" />
+    <img align="center" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   </a>
 </div>
 
@@ -68,19 +61,3 @@ You can find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevin--gri
     <img align="center" src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100" />
   </a>
 </div>
-
-<!--
-### Hi there 👋
-**kevingrillet/kevingrillet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
